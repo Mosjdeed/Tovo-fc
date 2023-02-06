@@ -1,0 +1,93 @@
+
+
+.div_1{
+    background-image: linear-gradient(rgb(122, 9, 133)30%, rgb(48, 6, 165));
+    width: 550px;
+    height: 300px;
+    position: relative;
+    top: 160px;
+    left: 580px;
+    
+
+}
+ .div_2{
+    background-image: linear-gradient(rgb(221, 17, 10)50%, rgb(152, 30, 163));
+    width: 550px;
+    height: 300px;
+    position: relative;
+    bottom: 200px;
+    left: 400px;
+    z-index: 1;
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    
+    
+
+
+}
+.div_3{
+    background-image: linear-gradient(rgb(48, 6, 165)30%, rgb(122, 9, 133));
+    width: 550px;
+    height: 280px;
+    position: relative;
+    bottom: 480px;
+    left: 260px;
+    
+   
+    
+
+}
+
+.word{
+     
+        text-align: center;
+        margin-right: 500px;
+        font-size: 18px;
+        color: rgb(250, 53, 3);
+        font-family: serif;
+  
+}
+p{
+    
+    
+    font-size: 17px;
+    text-align: center;
+    font-family: serif;
+}
+img
+{
+    width: 250px;
+    height: 300px;
+    position: relative;
+    bottom: 730px;
+    left: 280px;
+    z-index: 2;
+}
+.div_5{
+    width: 30px;
+    height: 30px;
+    background-image: linear-gradient(rgb(152, 30, 163)10%, rgb(221, 17, 10));
+    position: relative;
+    bottom: 780px;
+    left: 480px;
+    z-index: 3;
+    
+}
+a {
+    
+    border: 0.5px solid rgb(146, 145, 145);
+    color: rgb(214, 209, 209);
+    text-align: center;
+    text-decoration: none;
+     display: inline-block;
+    font-size: 24px;
+    cursor: pointer;
+    font-family: sans-serif;
+    border-radius: 3px;
+    
+  }
+  .di{
+      font-size: 60px;
+     
+  }

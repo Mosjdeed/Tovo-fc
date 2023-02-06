@@ -1,0 +1,100 @@
+body{
+    background-image: url('https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+h1{
+    font-family: serif;
+    color: rgb(245, 240, 233);
+    text-align: center;
+    font-size:50pxpx;
+    margin-top: 120px;
+    margin-bottom: 100px;
+}
+.divum
+{   
+    
+    width: 800px;
+    height: 250px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: wrap;
+    justify-content: space-around;
+    margin-bottom: 100px;
+    text-align: center;
+    
+}
+.divum div{
+    background-color: white;
+    color: black;
+    float: left;
+    width: 100px;
+    text-align: center;
+    padding: 40px;
+    border-radius: 1.5px;
+}
+.divum2{
+    width: 800px;
+    height: 250px;  
+    margin: 20px auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: wrap;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+.divum2 div{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    float: left;
+    width: 100px;
+    text-align: center;
+    padding: 40px;
+    border-radius: 1.5px;
+}
+.content
+{
+    font-size: 20px;
+    font-family: inherit;
+} 
+b{
+    font-size: 30px;
+    font-family: inherit;
+}
+.divum3{
+    width: 800px;
+    height: 250px;  
+    margin: 20px auto ;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: wrap;
+    justify-content: space-around;
+    
+}
+.divum3 div{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    float: left;
+    width: 100px;
+    text-align: center;
+    padding: 40px;
+    border-radius: 1.5px;
+}
+p{
+    font-family: serif;
+    color: rgb(230, 225, 218);
+    text-align: center;
+    font-size:25px;
+    margin-top: 120px;
+    margin-bottom: 100px;
+}
+img{
+    width: 100px;
+    height: 80px;
+    border-radius: 3px;
+}
